@@ -6,7 +6,7 @@
 4- mais parcelas, 10% juros
 
 
-MEU PRIMEIRO EXERCIO SEM ERRO NENHUM! 
+Aqui, vamos organizar as formas de pagamento por numeros. E abaixo, vamos escolher a forma de pagamento pelo numero. 
 */
 
 const precoEtiqueta = 100;
@@ -14,7 +14,6 @@ const formadePagamento = 4 ;
 
 if ( formadePagamento === 1) {
     console.log(precoEtiqueta - (precoEtiqueta*0.1) );
-
 } else if (formadePagamento === 2) {
     console.log(precoEtiqueta - (precoEtiqueta*0.15) );
 }else if (formadePagamento ===3) {
